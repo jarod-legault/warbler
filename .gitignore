@@ -1,0 +1,3 @@
+warbler-client/node_modules
+warbler-server/node_modules
+warbler-server/.env
